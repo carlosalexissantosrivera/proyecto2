@@ -1,0 +1,36 @@
+.header{
+	background-color:#03192D;
+	width: 100%;
+	left: 0%; top: 0%;   
+	height: 15%;
+	}
+
+.section{
+  background-color:#393F42;
+	text-align: center;
+	width: 100%;
+	left:0%; 	top: 15%;
+	height: 72%;
+}
+
+h1{
+	text-align: center;
+	color:white;
+	/*font-size: 3em;  2.2em = 2.2 x 10px = 22px */
+}
+
+.footer{
+	background-color:#03192D;
+	color:white;
+	text-align: center;
+  width: 100%;
+  left:0%; 
+  top: 87%;
+  height: 13%;
+}
+
+.header,
+.section,
+.footer{
+	position: absolute;
+}
